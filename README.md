@@ -6,6 +6,10 @@ I hold an MBA and am pursuing a STEM-designated Master of Science in Business An
 
 ## Selected projects
 
+### [Market Research Analytics Pipeline](https://github.com/yaysonvalencia/market-research-analytics-pipeline)
+
+A reusable Python framework integrating public Census data, automated data validation, metropolitan market analysis, and reproducible analytics. Validated against live Census API data across three U.S. metropolitan markets.
+
 ### [AI-Powered Market Intelligence Agent](https://github.com/yaysonvalencia/amazon-india-market-intelligence-agent)
 An AI-assisted competitive intelligence project combining marketplace data, external research, evidence assessment, and executive recommendations.
 
